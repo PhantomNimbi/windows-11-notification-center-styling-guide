@@ -273,7 +273,7 @@ Style:
 AccessKey=e
 ```
 
-### Hide Media Control Section
+### Hide media control section
 > [!NOTE]
 > Useful for having separate Media Control UIs.
 
