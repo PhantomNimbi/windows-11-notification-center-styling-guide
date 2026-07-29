@@ -274,8 +274,7 @@ AccessKey=e
 ```
 
 ### Hide media control section
-> [!NOTE]
-> Useful for having separate Media Control UIs.
+Useful for having separate Media Control UIs.
 
 Target:
 ```
