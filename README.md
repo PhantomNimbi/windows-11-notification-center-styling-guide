@@ -25,6 +25,7 @@ guide](https://github.com/ramensoftware/windows-11-start-menu-styling-guide/blob
   * [Calendar and notification titlebars: titles on the right, buttons on the left](#calendar-and-notification-titlebars-titles-on-the-right-buttons-on-the-left)
   * [Add accelerator key (Alt+X) to clear all notifications](#add-accelerator-key-altx-to-clear-all-notifications)
   * [Add accelerator key (Alt+E) to expand/collapse the calendar](#add-accelerator-key-alte-to-expandcollapse-the-calendar)
+  * [Hide media control section](#hide-media-control-section)
 * [Transforms](#transforms)
   * [Translate](#translate)
   * [Rotate](#rotate)
@@ -270,6 +271,18 @@ Button#ExpandCollapseButton
 Style:
 ```
 AccessKey=e
+```
+
+### Hide media control section
+Useful for having separate Media Control UIs.
+
+Target:
+```
+ControlCenter.MediaTransportControls#MediaTransportControls
+```
+Style:
+```
+Visibility=Collapsed
 ```
 
 ## Transforms
