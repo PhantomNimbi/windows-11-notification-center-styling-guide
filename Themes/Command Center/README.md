@@ -17,7 +17,7 @@
 
 ## Additional Extras
 
-- This theme goes great with various other Windhawk Mods. To see some pre-made configurations, check out my [Command Center](https://github.com/HELIX-Origin/Windhawk-Command-Center-Suite) suite repo.
+- This theme goes great with various other Windhawk Mods. To see some pre-made configurations, check out my [`GitHub Pages`](https://helix-origin.github.io/Windhawk-Themes/catalogue/command-center/) site.
 
 ## Theme selection
 
